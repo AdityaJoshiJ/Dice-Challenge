@@ -17,6 +17,10 @@ This project consists of:
 - Announce the winner based on the rolled values.
 - Refresh the page to roll new dice.
 
+  ## 🌟 Live Demo
+
+Check out the live version of this project here: [Amazon Clone Live Demo](https://adityajoshij.github.io/Amazon-clone/) <!-- Replace # with your live demo link -->
+
 ## File Structure
 
 ```bash
