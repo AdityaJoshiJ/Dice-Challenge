@@ -68,4 +68,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 Aditya Joshi - [adityajoshijj@gmail.com](mailto:your-adityajoshijj@gmail.com)
 
-Project Link: [https://github.com/AdityaJoshiJ/Dice-Challenge-](https://github.com/AdityaJoshiJ/Dice-Challenge-)
+Project Link: [https://github.com/AdityaJoshiJ/Dice-Challenge-](https://github.com/AdityaJoshiJ/Dice-Challenge)
