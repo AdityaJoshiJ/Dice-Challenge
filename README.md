@@ -19,7 +19,7 @@ This project consists of:
 
   ## 🌟 Live Demo
 
-Check out the live version of this project here: [Amazon Clone Live Demo](https://adityajoshij.github.io/Amazon-clone/) <!-- Replace # with your live demo link -->
+Check out the live version of this project here: [Dice Challenge  Live Demo](https://adityajoshij.github.io/Dice-Challenge/) <!-- Replace # with your live demo link -->
 
 ## File Structure
 
